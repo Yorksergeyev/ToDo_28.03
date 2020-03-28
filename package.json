@@ -1,0 +1,22 @@
+{
+  "name": "todo_04_02",
+  "version": "1.0.0",
+  "description": "\"todo\"",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bulma": "^0.8.0",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.1",
+    "underscore": "^1.9.2"
+  }
+}
